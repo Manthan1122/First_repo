@@ -1,3 +1,3 @@
 This is my first repository.
 <br>
-Aother - <b> Manthan Shende </b>
+Auther - <b> <i> Manthan Shende <i> </b>
